@@ -3,4 +3,4 @@
 - 🚀 I’m currently diving into Java backend development and the Spring framework.
 - 🖥️ Also practicing application development on Windows using C# and exploring cryptography.
 - 📫 Feel free to reach out: fk8ghtt@gmail.com 
-- 📫 Or tg: @surfshtt
+- 📫 Or telegram: @surfshtt
