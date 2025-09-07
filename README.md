@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Vlad
 
-I'm a third-year student at the Minsk College of Business.
+I'm a fourth-year student at the Minsk College of Business.
 
 ### 💻 Tech Stack
 <div>
