@@ -18,7 +18,7 @@ I'm a fourth-year student at the Minsk College of Business.
 - Knowledgeable in **ciphers** and **hash algorithms**
 
 ### 🚀 Current Focus
-I'm currently diving into Java backend development and the Spring framework. Additionally, I’m practicing application development on Windows using C# and exploring cryptography.
+I'm currently diving into Java backend development and the Spring framework. 
 
 ### 📫 Contact
 Feel free to reach out:
