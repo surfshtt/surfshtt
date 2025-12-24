@@ -13,7 +13,7 @@ I'm a fourth-year student at the Minsk College of Business.
 </div>
 
 ### 📖 Skills
-- Understanding the principles of **OOP**
+- Understanding the principles of **SOLID** and **OOP**
 - Familiar with various **design patterns**
 - Knowledgeable in **ciphers** and **hash algorithms**
 
